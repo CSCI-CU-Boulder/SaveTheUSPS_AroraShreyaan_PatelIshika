@@ -1,3 +1,9 @@
+/*
+CSCI 2270 USPS Project
+Shreyaan Arora: Hash Table, Report
+Ishika Patel: BST, LL, Report
+*/
+
 #include <iostream>
 
 struct Node{
